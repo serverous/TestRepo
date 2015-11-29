@@ -1,0 +1,8 @@
+c:\users\admin\documents\visual studio 2010\Projects\MedicineStore\MedicineStore.Tests\bin\Debug\MedicineStore.Tests.dll.config
+c:\users\admin\documents\visual studio 2010\Projects\MedicineStore\MedicineStore.Tests\bin\Debug\MedicineStore.Tests.dll
+c:\users\admin\documents\visual studio 2010\Projects\MedicineStore\MedicineStore.Tests\bin\Debug\MedicineStore.Tests.pdb
+c:\users\admin\documents\visual studio 2010\Projects\MedicineStore\MedicineStore.Tests\bin\Debug\MedicineStore.dll
+c:\users\admin\documents\visual studio 2010\Projects\MedicineStore\MedicineStore.Tests\bin\Debug\MedicineStore.pdb
+c:\users\admin\documents\visual studio 2010\Projects\MedicineStore\MedicineStore.Tests\obj\Debug\ResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2010\Projects\MedicineStore\MedicineStore.Tests\obj\Debug\MedicineStore.Tests.dll
+c:\users\admin\documents\visual studio 2010\Projects\MedicineStore\MedicineStore.Tests\obj\Debug\MedicineStore.Tests.pdb

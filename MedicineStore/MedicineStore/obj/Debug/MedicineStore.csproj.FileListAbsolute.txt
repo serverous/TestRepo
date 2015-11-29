@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2010\Projects\MedicineStore\MedicineStore\bin\MedicineStore.dll
+c:\users\admin\documents\visual studio 2010\Projects\MedicineStore\MedicineStore\bin\MedicineStore.pdb
+c:\users\admin\documents\visual studio 2010\Projects\MedicineStore\MedicineStore\obj\Debug\ResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2010\Projects\MedicineStore\MedicineStore\obj\Debug\MedicineStore.dll
+c:\users\admin\documents\visual studio 2010\Projects\MedicineStore\MedicineStore\obj\Debug\MedicineStore.pdb
